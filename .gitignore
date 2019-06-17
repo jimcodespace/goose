@@ -1,0 +1,8 @@
+.idea
+.idea_modules
+.icloud
+target
+logs
+*.iml
+_build/
+bower_components
